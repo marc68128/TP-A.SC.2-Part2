@@ -1,0 +1,12 @@
+﻿<xapCache source="c:\users\marc\documents\visual studio 2013\Projects\TP2\DemoBlend\Bin\Debug\DemoBlend_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="05/01/2015 17:53:44">
+  <file source="c:\users\marc\documents\visual studio 2013\Projects\TP2\DemoBlend\obj\Debug\DemoBlend.dll" archivePath="DemoBlend.dll" lastWriteTime="05/01/2015 17:53:43" />
+  <file source="c:\users\marc\documents\visual studio 2013\Projects\TP2\DemoBlend\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="05/01/2015 11:20:45" />
+  <file source="c:\users\marc\documents\visual studio 2013\Projects\TP2\DemoBlend\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="05/01/2015 11:20:45" />
+  <file source="c:\users\marc\documents\visual studio 2013\Projects\TP2\DemoBlend\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="05/01/2015 11:20:45" />
+  <file source="c:\users\marc\documents\visual studio 2013\Projects\TP2\DemoBlend\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="05/01/2015 11:20:45" />
+  <file source="c:\users\marc\documents\visual studio 2013\Projects\TP2\DemoBlend\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="05/01/2015 11:20:45" />
+  <file source="c:\users\marc\documents\visual studio 2013\Projects\TP2\DemoBlend\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="05/01/2015 11:20:49" />
+  <file source="c:\users\marc\documents\visual studio 2013\Projects\TP2\DemoBlend\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="05/01/2015 11:20:45" />
+  <file source="c:\users\marc\documents\visual studio 2013\Projects\TP2\DemoBlend\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="05/01/2015 11:20:45" />
+  <file source="c:\users\marc\documents\visual studio 2013\Projects\TP2\DemoBlend\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="05/01/2015 11:20:49" />
+</xapCache>

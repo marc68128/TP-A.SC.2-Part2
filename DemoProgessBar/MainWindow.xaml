@@ -1,0 +1,9 @@
+﻿<Window x:Class="DemoProgessBar.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <StackPanel>
+        <ProgressBar x:Name="ProgressBar" Height="50" Margin="10" Maximum="100"></ProgressBar>
+        <ProgressBar Height="50" Margin="10" IsIndeterminate="True"></ProgressBar>
+    </StackPanel>
+</Window>

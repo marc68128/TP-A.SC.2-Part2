@@ -1,0 +1,15 @@
+﻿<Window x:Class="DemoNavigation.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Frame Source="Page1.xaml"></Frame>
+        <Button Grid.Row="1" Click="ButtonBase_OnClick">Open new window</Button>
+
+    </Grid>
+</Window>

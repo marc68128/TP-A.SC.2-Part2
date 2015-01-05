@@ -1,0 +1,8 @@
+﻿<Window x:Class="DemoTextBlock.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="200">
+    <Grid>
+        <TextBlock TextWrapping="Wrap" FontSize="20" Foreground="Blue">fhskfhksf sd fkhd dk fsfh s fqsdf qsdf sqdf qsdf qsdf </TextBlock>
+    </Grid>
+</Window>
