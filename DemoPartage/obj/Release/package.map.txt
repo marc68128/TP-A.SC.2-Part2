@@ -1,0 +1,11 @@
+[Files]
+"C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoPartage\bin\Release\AppxManifest.xml" "AppxManifest.xml"
+"C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoPartage\bin\Release\DemoPartage.exe" "DemoPartage.exe"
+"C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoPartage\Assets\Logo.scale-100.png" "Assets\Logo.scale-100.png"
+"C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoPartage\Assets\SmallLogo.scale-100.png" "Assets\SmallLogo.scale-100.png"
+"C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoPartage\Assets\SplashScreen.scale-100.png" "Assets\SplashScreen.scale-100.png"
+"C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoPartage\Assets\StoreLogo.scale-100.png" "Assets\StoreLogo.scale-100.png"
+"C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoPartage\bin\Release\App.xbf" "App.xbf"
+"C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoPartage\bin\Release\MainPage.xbf" "MainPage.xbf"
+"C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoPartage\bin\Release\DemoPartage.xr.xml" "DemoPartage.xr.xml"
+"C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoPartage\bin\Release\resources.pri" "resources.pri"

@@ -1,4 +1,5 @@
-﻿using Windows.UI.Xaml.Media.Animation;
+﻿using Windows.ApplicationModel.DataTransfer;
+using Windows.UI.Xaml.Media.Animation;
 using WindowsBlogReader.Common;
 using System;
 using System.Collections.Generic;
@@ -24,7 +25,7 @@ namespace WindowsBlogReader
     /// </summary>
     public sealed partial class DetailPage : Page
     {
-
+        private DataTransferManager _dataTransferManager; 
         private NavigationHelper navigationHelper;
         private ObservableDictionary defaultViewModel = new ObservableDictionary();
 
@@ -52,6 +53,19 @@ namespace WindowsBlogReader
             this.navigationHelper = new NavigationHelper(this);
             this.navigationHelper.LoadState += navigationHelper_LoadState;
             this.navigationHelper.SaveState += navigationHelper_SaveState;
+
+            _dataTransferManager = DataTransferManager.GetForCurrentView(); 
+            _dataTransferManager.DataRequested += DataTransferManagerOnDataRequested;
+        }
+
+        private void DataTransferManagerOnDataRequested(DataTransferManager sender, DataRequestedEventArgs args)
+        {
+            var request = args.Request;
+            FeedItem fd = DataContext as FeedItem; 
+            request.Data.Properties.Title = fd.Title;
+            request.Data.Properties.Description = fd.PubDate.ToString("D"); 
+            request.Data.SetUri(fd.Link);
+
         }
 
         /// <summary>

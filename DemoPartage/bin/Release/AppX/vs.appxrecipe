@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MARC-PC</Machine>
+    <WindowsUser>Marc</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>3f29dd78-215f-47c1-a914-554811c2bcc0</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoPartage\obj\Release\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>70FF52A606AF8294AACE8482A1C054363480BD1979AC127A267673984F4AA151</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>3f29dd78-215f-47c1-a914-554811c2bcc0_1.0.0.0_neutral__3kkjfjc6x76r0</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>3f29dd78-215f-47c1-a914-554811c2bcc0_3kkjfjc6x76r0!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>3f29dd78-215f-47c1-a914-554811c2bcc0</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Marc</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoPartage\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-08T15:44:04.193</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoPartage\bin\Release\DemoPartage.exe">
+      <PackagePath>DemoPartage.exe</PackagePath>
+      <Modified>2015-01-08T15:44:03.896</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoPartage\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoPartage\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoPartage\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoPartage\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoPartage\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-01-08T15:44:03.716</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoPartage\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-01-08T15:44:03.718</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoPartage\bin\Release\DemoPartage.xr.xml">
+      <PackagePath>DemoPartage.xr.xml</PackagePath>
+      <Modified>2015-01-08T15:44:03.665</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoPartage\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-01-08T15:44:04.030</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
