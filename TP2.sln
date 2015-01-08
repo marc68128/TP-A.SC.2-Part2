@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP7 (Flus rss)", "TP7 (Flus
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsBlogReader", "WindowsBlogReader\WindowsBlogReader.csproj", "{BEE65368-CE37-4C56-9508-F32CB9FF52DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoAccelerometre", "DemoAccelerometre\DemoAccelerometre.csproj", "{F8D0B3D5-81BF-4575-9C00-3EE1BE3969FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -305,6 +307,30 @@ Global
 		{BEE65368-CE37-4C56-9508-F32CB9FF52DD}.Release|x86.ActiveCfg = Release|x86
 		{BEE65368-CE37-4C56-9508-F32CB9FF52DD}.Release|x86.Build.0 = Release|x86
 		{BEE65368-CE37-4C56-9508-F32CB9FF52DD}.Release|x86.Deploy.0 = Release|x86
+		{F8D0B3D5-81BF-4575-9C00-3EE1BE3969FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8D0B3D5-81BF-4575-9C00-3EE1BE3969FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8D0B3D5-81BF-4575-9C00-3EE1BE3969FB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F8D0B3D5-81BF-4575-9C00-3EE1BE3969FB}.Debug|ARM.ActiveCfg = Debug|ARM
+		{F8D0B3D5-81BF-4575-9C00-3EE1BE3969FB}.Debug|ARM.Build.0 = Debug|ARM
+		{F8D0B3D5-81BF-4575-9C00-3EE1BE3969FB}.Debug|ARM.Deploy.0 = Debug|ARM
+		{F8D0B3D5-81BF-4575-9C00-3EE1BE3969FB}.Debug|x64.ActiveCfg = Debug|x64
+		{F8D0B3D5-81BF-4575-9C00-3EE1BE3969FB}.Debug|x64.Build.0 = Debug|x64
+		{F8D0B3D5-81BF-4575-9C00-3EE1BE3969FB}.Debug|x64.Deploy.0 = Debug|x64
+		{F8D0B3D5-81BF-4575-9C00-3EE1BE3969FB}.Debug|x86.ActiveCfg = Debug|x86
+		{F8D0B3D5-81BF-4575-9C00-3EE1BE3969FB}.Debug|x86.Build.0 = Debug|x86
+		{F8D0B3D5-81BF-4575-9C00-3EE1BE3969FB}.Debug|x86.Deploy.0 = Debug|x86
+		{F8D0B3D5-81BF-4575-9C00-3EE1BE3969FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8D0B3D5-81BF-4575-9C00-3EE1BE3969FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8D0B3D5-81BF-4575-9C00-3EE1BE3969FB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{F8D0B3D5-81BF-4575-9C00-3EE1BE3969FB}.Release|ARM.ActiveCfg = Release|ARM
+		{F8D0B3D5-81BF-4575-9C00-3EE1BE3969FB}.Release|ARM.Build.0 = Release|ARM
+		{F8D0B3D5-81BF-4575-9C00-3EE1BE3969FB}.Release|ARM.Deploy.0 = Release|ARM
+		{F8D0B3D5-81BF-4575-9C00-3EE1BE3969FB}.Release|x64.ActiveCfg = Release|x64
+		{F8D0B3D5-81BF-4575-9C00-3EE1BE3969FB}.Release|x64.Build.0 = Release|x64
+		{F8D0B3D5-81BF-4575-9C00-3EE1BE3969FB}.Release|x64.Deploy.0 = Release|x64
+		{F8D0B3D5-81BF-4575-9C00-3EE1BE3969FB}.Release|x86.ActiveCfg = Release|x86
+		{F8D0B3D5-81BF-4575-9C00-3EE1BE3969FB}.Release|x86.Build.0 = Release|x86
+		{F8D0B3D5-81BF-4575-9C00-3EE1BE3969FB}.Release|x86.Deploy.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

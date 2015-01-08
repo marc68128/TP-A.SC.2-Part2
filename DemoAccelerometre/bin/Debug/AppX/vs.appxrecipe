@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MARC-PC</Machine>
+    <WindowsUser>Marc</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>d6a08225-0509-4be8-bbc4-cff50b383daf</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoAccelerometre\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>94E9C6A6862F24F6867784361B218745D9FF7CCB085970C83C10E82CDF3C35EA</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>d6a08225-0509-4be8-bbc4-cff50b383daf_1.0.0.0_neutral__3kkjfjc6x76r0</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>d6a08225-0509-4be8-bbc4-cff50b383daf_3kkjfjc6x76r0!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>d6a08225-0509-4be8-bbc4-cff50b383daf</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Marc</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoAccelerometre\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-08T14:43:30.061</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoAccelerometre\bin\Debug\DemoAccelerometre.exe">
+      <PackagePath>DemoAccelerometre.exe</PackagePath>
+      <Modified>2015-01-08T14:43:29.821</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoAccelerometre\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoAccelerometre\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoAccelerometre\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoAccelerometre\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoAccelerometre\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-01-08T14:03:28.125</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoAccelerometre\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-01-08T14:03:28.127</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoAccelerometre\bin\Debug\DemoAccelerometre.xr.xml">
+      <PackagePath>DemoAccelerometre.xr.xml</PackagePath>
+      <Modified>2015-01-08T14:03:28.107</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoAccelerometre\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-01-08T14:43:29.932</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

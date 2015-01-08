@@ -124,7 +124,7 @@ namespace WindowsBlogReader.WindowsBlogReader_XamlTypeInfo
 
         private void InitTypeTables()
         {
-            _typeNameTable = new string[19];
+            _typeNameTable = new string[20];
             _typeNameTable[0] = "WindowsBlogReader.FeedDataSource";
             _typeNameTable[1] = "Object";
             _typeNameTable[2] = "System.Collections.ObjectModel.ObservableCollection`1<WindowsBlogReader.FeedData>";
@@ -136,16 +136,17 @@ namespace WindowsBlogReader.WindowsBlogReader_XamlTypeInfo
             _typeNameTable[8] = "System.Collections.Generic.List`1<WindowsBlogReader.FeedItem>";
             _typeNameTable[9] = "WindowsBlogReader.FeedItem";
             _typeNameTable[10] = "System.Uri";
-            _typeNameTable[11] = "WindowsBlogReader.DetailPage";
-            _typeNameTable[12] = "Windows.UI.Xaml.Controls.Page";
-            _typeNameTable[13] = "Windows.UI.Xaml.Controls.UserControl";
-            _typeNameTable[14] = "WindowsBlogReader.Common.ObservableDictionary";
-            _typeNameTable[15] = "WindowsBlogReader.Common.NavigationHelper";
-            _typeNameTable[16] = "Windows.UI.Xaml.DependencyObject";
-            _typeNameTable[17] = "WindowsBlogReader.ItemsPage";
-            _typeNameTable[18] = "WindowsBlogReader.SplitPage";
+            _typeNameTable[11] = "WindowsBlogReader.DateConverter";
+            _typeNameTable[12] = "WindowsBlogReader.DetailPage";
+            _typeNameTable[13] = "Windows.UI.Xaml.Controls.Page";
+            _typeNameTable[14] = "Windows.UI.Xaml.Controls.UserControl";
+            _typeNameTable[15] = "WindowsBlogReader.Common.ObservableDictionary";
+            _typeNameTable[16] = "WindowsBlogReader.Common.NavigationHelper";
+            _typeNameTable[17] = "Windows.UI.Xaml.DependencyObject";
+            _typeNameTable[18] = "WindowsBlogReader.ItemsPage";
+            _typeNameTable[19] = "WindowsBlogReader.SplitPage";
 
-            _typeTable = new global::System.Type[19];
+            _typeTable = new global::System.Type[20];
             _typeTable[0] = typeof(global::WindowsBlogReader.FeedDataSource);
             _typeTable[1] = typeof(global::System.Object);
             _typeTable[2] = typeof(global::System.Collections.ObjectModel.ObservableCollection<global::WindowsBlogReader.FeedData>);
@@ -157,14 +158,15 @@ namespace WindowsBlogReader.WindowsBlogReader_XamlTypeInfo
             _typeTable[8] = typeof(global::System.Collections.Generic.List<global::WindowsBlogReader.FeedItem>);
             _typeTable[9] = typeof(global::WindowsBlogReader.FeedItem);
             _typeTable[10] = typeof(global::System.Uri);
-            _typeTable[11] = typeof(global::WindowsBlogReader.DetailPage);
-            _typeTable[12] = typeof(global::Windows.UI.Xaml.Controls.Page);
-            _typeTable[13] = typeof(global::Windows.UI.Xaml.Controls.UserControl);
-            _typeTable[14] = typeof(global::WindowsBlogReader.Common.ObservableDictionary);
-            _typeTable[15] = typeof(global::WindowsBlogReader.Common.NavigationHelper);
-            _typeTable[16] = typeof(global::Windows.UI.Xaml.DependencyObject);
-            _typeTable[17] = typeof(global::WindowsBlogReader.ItemsPage);
-            _typeTable[18] = typeof(global::WindowsBlogReader.SplitPage);
+            _typeTable[11] = typeof(global::WindowsBlogReader.DateConverter);
+            _typeTable[12] = typeof(global::WindowsBlogReader.DetailPage);
+            _typeTable[13] = typeof(global::Windows.UI.Xaml.Controls.Page);
+            _typeTable[14] = typeof(global::Windows.UI.Xaml.Controls.UserControl);
+            _typeTable[15] = typeof(global::WindowsBlogReader.Common.ObservableDictionary);
+            _typeTable[16] = typeof(global::WindowsBlogReader.Common.NavigationHelper);
+            _typeTable[17] = typeof(global::Windows.UI.Xaml.DependencyObject);
+            _typeTable[18] = typeof(global::WindowsBlogReader.ItemsPage);
+            _typeTable[19] = typeof(global::WindowsBlogReader.SplitPage);
         }
 
         private int LookupTypeIndexByName(string typeName)
@@ -205,10 +207,11 @@ namespace WindowsBlogReader.WindowsBlogReader_XamlTypeInfo
         private object Activate_4_FeedData() { return new global::WindowsBlogReader.FeedData(); }
         private object Activate_8_List() { return new global::System.Collections.Generic.List<global::WindowsBlogReader.FeedItem>(); }
         private object Activate_9_FeedItem() { return new global::WindowsBlogReader.FeedItem(); }
-        private object Activate_11_DetailPage() { return new global::WindowsBlogReader.DetailPage(); }
-        private object Activate_14_ObservableDictionary() { return new global::WindowsBlogReader.Common.ObservableDictionary(); }
-        private object Activate_17_ItemsPage() { return new global::WindowsBlogReader.ItemsPage(); }
-        private object Activate_18_SplitPage() { return new global::WindowsBlogReader.SplitPage(); }
+        private object Activate_11_DateConverter() { return new global::WindowsBlogReader.DateConverter(); }
+        private object Activate_12_DetailPage() { return new global::WindowsBlogReader.DetailPage(); }
+        private object Activate_15_ObservableDictionary() { return new global::WindowsBlogReader.Common.ObservableDictionary(); }
+        private object Activate_18_ItemsPage() { return new global::WindowsBlogReader.ItemsPage(); }
+        private object Activate_19_SplitPage() { return new global::WindowsBlogReader.SplitPage(); }
         private void VectorAdd_2_ObservableCollection(object instance, object item)
         {
             var collection = (global::System.Collections.Generic.ICollection<global::WindowsBlogReader.FeedData>)instance;
@@ -227,7 +230,7 @@ namespace WindowsBlogReader.WindowsBlogReader_XamlTypeInfo
             var newItem = (global::WindowsBlogReader.FeedItem)item;
             collection.Add(newItem);
         }
-        private void MapAdd_14_ObservableDictionary(object instance, object key, object item)
+        private void MapAdd_15_ObservableDictionary(object instance, object key, object item)
         {
             var collection = (global::System.Collections.Generic.IDictionary<global::System.String, global::System.Object>)instance;
             var newKey = (global::System.String)key;
@@ -322,54 +325,61 @@ namespace WindowsBlogReader.WindowsBlogReader_XamlTypeInfo
                 xamlType = userType;
                 break;
 
-            case 11:   //  WindowsBlogReader.DetailPage
+            case 11:   //  WindowsBlogReader.DateConverter
+                userType = new global::WindowsBlogReader.WindowsBlogReader_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Object"));
+                userType.Activator = Activate_11_DateConverter;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 12:   //  WindowsBlogReader.DetailPage
                 userType = new global::WindowsBlogReader.WindowsBlogReader_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_11_DetailPage;
+                userType.Activator = Activate_12_DetailPage;
                 userType.AddMemberName("DefaultViewModel");
                 userType.AddMemberName("NavigationHelper");
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
 
-            case 12:   //  Windows.UI.Xaml.Controls.Page
+            case 13:   //  Windows.UI.Xaml.Controls.Page
                 xamlType = new global::WindowsBlogReader.WindowsBlogReader_XamlTypeInfo.XamlSystemBaseType(typeName, type);
                 break;
 
-            case 13:   //  Windows.UI.Xaml.Controls.UserControl
+            case 14:   //  Windows.UI.Xaml.Controls.UserControl
                 xamlType = new global::WindowsBlogReader.WindowsBlogReader_XamlTypeInfo.XamlSystemBaseType(typeName, type);
                 break;
 
-            case 14:   //  WindowsBlogReader.Common.ObservableDictionary
+            case 15:   //  WindowsBlogReader.Common.ObservableDictionary
                 userType = new global::WindowsBlogReader.WindowsBlogReader_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Object"));
-                userType.DictionaryAdd = MapAdd_14_ObservableDictionary;
+                userType.DictionaryAdd = MapAdd_15_ObservableDictionary;
                 userType.SetIsReturnTypeStub();
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
 
-            case 15:   //  WindowsBlogReader.Common.NavigationHelper
+            case 16:   //  WindowsBlogReader.Common.NavigationHelper
                 userType = new global::WindowsBlogReader.WindowsBlogReader_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.DependencyObject"));
                 userType.SetIsReturnTypeStub();
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
 
-            case 16:   //  Windows.UI.Xaml.DependencyObject
+            case 17:   //  Windows.UI.Xaml.DependencyObject
                 xamlType = new global::WindowsBlogReader.WindowsBlogReader_XamlTypeInfo.XamlSystemBaseType(typeName, type);
                 break;
 
-            case 17:   //  WindowsBlogReader.ItemsPage
+            case 18:   //  WindowsBlogReader.ItemsPage
                 userType = new global::WindowsBlogReader.WindowsBlogReader_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_17_ItemsPage;
+                userType.Activator = Activate_18_ItemsPage;
                 userType.AddMemberName("DefaultViewModel");
                 userType.AddMemberName("NavigationHelper");
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
 
-            case 18:   //  WindowsBlogReader.SplitPage
+            case 19:   //  WindowsBlogReader.SplitPage
                 userType = new global::WindowsBlogReader.WindowsBlogReader_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_18_SplitPage;
+                userType.Activator = Activate_19_SplitPage;
                 userType.AddMemberName("DefaultViewModel");
                 userType.AddMemberName("NavigationHelper");
                 userType.SetIsLocalType();

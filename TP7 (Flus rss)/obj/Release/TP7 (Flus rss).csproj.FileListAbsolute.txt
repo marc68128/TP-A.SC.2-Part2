@@ -1,0 +1,47 @@
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\bin\Release\App.xbf
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\bin\Release\DetailPage.xbf
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\bin\Release\ItemsPage.xbf
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\bin\Release\SearchResultsPage1.xbf
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\bin\Release\SplitPage.xbf
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\bin\Release\TP7 (Flus rss).xr.xml
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\bin\Release\TP7 (Flus rss).exe
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\bin\Release\TP7 (Flus rss).pdb
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\bin\Release\resources.pri
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\bin\Release\AppxManifest.xml
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\bin\Release\TP7 (Flus rss).build.appxrecipe
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Release\App.g.i.cs
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Release\App.g.cs
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Release\DetailPage.g.i.cs
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Release\DetailPage.g.cs
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Release\ItemsPage.g.i.cs
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Release\ItemsPage.g.cs
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Release\SearchResultsPage1.g.i.cs
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Release\SearchResultsPage1.g.cs
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Release\SplitPage.g.i.cs
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Release\SplitPage.g.cs
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Release\XamlTypeInfo.g.cs
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Release\DetailPage.xaml
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Release\ItemsPage.xaml
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Release\SearchResultsPage1.xaml
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Release\SplitPage.xaml
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Release\DetailPage.xbf
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Release\ItemsPage.xbf
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Release\SearchResultsPage1.xbf
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Release\SplitPage.xbf
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Release\XamlSaveStateFile.xml
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Release\App.xaml
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Release\App.xbf
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Release\TP7 (Flus rss).exe
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Release\TP7 (Flus rss).pdb
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Release\priconfig.xml
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Release\priconfig.xml.intermediate
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Release\layout.resfiles
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Release\layout.resfiles.intermediate
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Release\resources.resfiles
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Release\resources.resfiles.intermediate
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Release\pri.resfiles
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Release\pri.resfiles.intermediate
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Release\qualifiers.txt
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Release\qualifiers.txt.intermediate
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Release\ProjectArchitectures.txt

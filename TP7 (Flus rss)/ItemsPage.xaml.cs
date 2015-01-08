@@ -1,4 +1,5 @@
-﻿using TP7__Flus_rss_.Common;
+﻿using Windows.ApplicationModel.DataTransfer;
+using TP7__Flus_rss_.Common;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -49,6 +50,16 @@ namespace TP7__Flus_rss_
             this.InitializeComponent();
             this.navigationHelper = new NavigationHelper(this);
             this.navigationHelper.LoadState += navigationHelper_LoadState;
+            DataTransferManager dataTransferManager = DataTransferManager.GetForCurrentView();
+            dataTransferManager.DataRequested += DataTransferManagerOnDataRequested;
+        }
+
+        private void DataTransferManagerOnDataRequested(DataTransferManager sender, DataRequestedEventArgs args)
+        {
+            DataRequest request = args.Request;
+            request.Data.Properties.Title = "Share Text Example";
+            request.Data.Properties.Description = "A demonstration that shows how to share text.";
+            request.Data.SetText("Hello World!");
         }
 
         private async void navigationHelper_LoadState(object sender, LoadStateEventArgs e)

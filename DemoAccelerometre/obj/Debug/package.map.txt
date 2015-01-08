@@ -1,0 +1,11 @@
+[Files]
+"C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoAccelerometre\bin\Debug\AppxManifest.xml" "AppxManifest.xml"
+"C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoAccelerometre\bin\Debug\DemoAccelerometre.exe" "DemoAccelerometre.exe"
+"C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoAccelerometre\Assets\Logo.scale-100.png" "Assets\Logo.scale-100.png"
+"C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoAccelerometre\Assets\SmallLogo.scale-100.png" "Assets\SmallLogo.scale-100.png"
+"C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoAccelerometre\Assets\SplashScreen.scale-100.png" "Assets\SplashScreen.scale-100.png"
+"C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoAccelerometre\Assets\StoreLogo.scale-100.png" "Assets\StoreLogo.scale-100.png"
+"C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoAccelerometre\bin\Debug\App.xbf" "App.xbf"
+"C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoAccelerometre\bin\Debug\MainPage.xbf" "MainPage.xbf"
+"C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoAccelerometre\bin\Debug\DemoAccelerometre.xr.xml" "DemoAccelerometre.xr.xml"
+"C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoAccelerometre\bin\Debug\resources.pri" "resources.pri"

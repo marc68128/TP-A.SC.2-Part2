@@ -20,13 +20,13 @@
     <AppXManifest Include="C:\Users\Marc\documents\visual studio 2013\Projects\TP2\WindowsBlogReader\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-01-08T11:42:50.376</Modified>
+      <Modified>2015-01-08T13:38:52.062</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Marc\documents\visual studio 2013\Projects\TP2\WindowsBlogReader\bin\Debug\WindowsBlogReader.exe">
       <PackagePath>WindowsBlogReader.exe</PackagePath>
-      <Modified>2015-01-08T13:25:01.799</Modified>
+      <Modified>2015-01-08T13:38:51.928</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Marc\documents\visual studio 2013\Projects\TP2\WindowsBlogReader\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
@@ -70,7 +70,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Marc\documents\visual studio 2013\Projects\TP2\WindowsBlogReader\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2015-01-08T11:42:50.324</Modified>
+      <Modified>2015-01-08T13:38:52.006</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
