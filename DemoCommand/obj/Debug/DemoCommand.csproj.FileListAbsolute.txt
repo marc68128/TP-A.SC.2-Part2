@@ -1,0 +1,13 @@
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoCommand\bin\Debug\DemoCommand.exe.config
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoCommand\bin\Debug\DemoCommand.exe
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoCommand\bin\Debug\DemoCommand.pdb
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoCommand\obj\Debug\DemoCommand.csprojResolveAssemblyReference.cache
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoCommand\obj\Debug\MainWindow.baml
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoCommand\obj\Debug\MainWindow.g.cs
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoCommand\obj\Debug\App.g.cs
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoCommand\obj\Debug\DemoCommand_MarkupCompile.cache
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoCommand\obj\Debug\DemoCommand.g.resources
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoCommand\obj\Debug\DemoCommand.Properties.Resources.resources
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoCommand\obj\Debug\DemoCommand.csproj.GenerateResource.Cache
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoCommand\obj\Debug\DemoCommand.exe
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoCommand\obj\Debug\DemoCommand.pdb

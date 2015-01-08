@@ -1,0 +1,17 @@
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoDependencyProperty\bin\Debug\DemoDependencyProperty.exe.config
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoDependencyProperty\bin\Debug\DemoDependencyProperty.exe
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoDependencyProperty\bin\Debug\DemoDependencyProperty.pdb
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoDependencyProperty\obj\Debug\DemoDependencyProperty.csprojResolveAssemblyReference.cache
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoDependencyProperty\obj\Debug\CustomTextBlock.baml
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoDependencyProperty\obj\Debug\CustomTextBlock.g.cs
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoDependencyProperty\obj\Debug\MainWindow.g.cs
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoDependencyProperty\obj\Debug\App.g.cs
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoDependencyProperty\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoDependencyProperty\obj\Debug\DemoDependencyProperty_MarkupCompile.cache
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoDependencyProperty\obj\Debug\DemoDependencyProperty_MarkupCompile.lref
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoDependencyProperty\obj\Debug\MainWindow.baml
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoDependencyProperty\obj\Debug\DemoDependencyProperty.g.resources
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoDependencyProperty\obj\Debug\DemoDependencyProperty.Properties.Resources.resources
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoDependencyProperty\obj\Debug\DemoDependencyProperty.csproj.GenerateResource.Cache
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoDependencyProperty\obj\Debug\DemoDependencyProperty.exe
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\DemoDependencyProperty\obj\Debug\DemoDependencyProperty.pdb

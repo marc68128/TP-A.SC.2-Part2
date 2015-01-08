@@ -1,0 +1,47 @@
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Debug\App.g.i.cs
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Debug\App.g.cs
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Debug\DetailPage.g.i.cs
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Debug\DetailPage.g.cs
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Debug\ItemsPage.g.i.cs
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Debug\ItemsPage.g.cs
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Debug\SplitPage.g.i.cs
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Debug\SplitPage.g.cs
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Debug\ItemsPage.xaml
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Debug\SplitPage.xaml
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Debug\ItemsPage.xbf
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Debug\SplitPage.xbf
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\bin\Debug\App.xbf
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\bin\Debug\DetailPage.xbf
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\bin\Debug\ItemsPage.xbf
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\bin\Debug\SplitPage.xbf
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\bin\Debug\TP7 (Flus rss).xr.xml
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\bin\Debug\TP7 (Flus rss).exe
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\bin\Debug\TP7 (Flus rss).pdb
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\bin\Debug\resources.pri
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\bin\Debug\AppxManifest.xml
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\bin\Debug\TP7 (Flus rss).build.appxrecipe
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Debug\App.xaml
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Debug\DetailPage.xaml
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Debug\App.xbf
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Debug\DetailPage.xbf
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Debug\TP7 (Flus rss).exe
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Debug\TP7 (Flus rss).pdb
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Debug\priconfig.xml
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Debug\priconfig.xml.intermediate
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Debug\layout.resfiles
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Debug\layout.resfiles.intermediate
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Debug\resources.resfiles
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Debug\resources.resfiles.intermediate
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Debug\pri.resfiles
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Debug\pri.resfiles.intermediate
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Debug\qualifiers.txt
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Debug\ProjectArchitectures.txt
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\bin\Debug\SearchResultsPage1.xbf
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Debug\SearchResultsPage1.g.i.cs
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Debug\SearchResultsPage1.g.cs
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Debug\SearchResultsPage1.xaml
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 (Flus rss)\obj\Debug\SearchResultsPage1.xbf

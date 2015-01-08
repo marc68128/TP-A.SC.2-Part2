@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MARC-PC</Machine>
+    <WindowsUser>Marc</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>e19f4f2a-4bc1-4791-9bee-1f4e29f45963</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 %28Flus rss%29\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>D5644895A6473A0C3285178738E1F671E29B77055A30E14A7197EDB579724FBA</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>e19f4f2a-4bc1-4791-9bee-1f4e29f45963_1.0.0.0_neutral__3kkjfjc6x76r0</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>e19f4f2a-4bc1-4791-9bee-1f4e29f45963_3kkjfjc6x76r0!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>e19f4f2a-4bc1-4791-9bee-1f4e29f45963</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Marc</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 %28Flus rss%29\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-08T13:06:56.589</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 %28Flus rss%29\bin\Debug\TP7 %28Flus rss%29.exe">
+      <PackagePath>TP7 %28Flus rss%29.exe</PackagePath>
+      <Modified>2015-01-08T13:06:56.463</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 %28Flus rss%29\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 %28Flus rss%29\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 %28Flus rss%29\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 %28Flus rss%29\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 %28Flus rss%29\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-01-08T13:06:56.209</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 %28Flus rss%29\bin\Debug\DetailPage.xbf">
+      <PackagePath>DetailPage.xbf</PackagePath>
+      <Modified>2015-01-08T09:37:49.639</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 %28Flus rss%29\bin\Debug\ItemsPage.xbf">
+      <PackagePath>ItemsPage.xbf</PackagePath>
+      <Modified>2015-01-08T08:34:51.650</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 %28Flus rss%29\bin\Debug\SearchResultsPage1.xbf">
+      <PackagePath>SearchResultsPage1.xbf</PackagePath>
+      <Modified>2015-01-08T13:06:56.212</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 %28Flus rss%29\bin\Debug\SplitPage.xbf">
+      <PackagePath>SplitPage.xbf</PackagePath>
+      <Modified>2015-01-08T09:37:49.642</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 %28Flus rss%29\bin\Debug\TP7 %28Flus rss%29.xr.xml">
+      <PackagePath>TP7 %28Flus rss%29.xr.xml</PackagePath>
+      <Modified>2015-01-08T13:06:56.189</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP7 %28Flus rss%29\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-01-08T13:06:56.538</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

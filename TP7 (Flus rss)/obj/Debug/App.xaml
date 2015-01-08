@@ -1,0 +1,40 @@
+﻿<Application
+    x:Class="TP7__Flus_rss_.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:TP7__Flus_rss_">
+
+    <Application.Resources>
+        <ResourceDictionary>
+            <local:FeedDataSource x:Key="feedDataSource"/>
+            <local:DateConverter x:Name="DateConverter"></local:DateConverter>
+            <SolidColorBrush x:Key="WindowsBlogBackgroundBrush" Color="#FF0A2562"></SolidColorBrush>
+            <Style x:Key="WindowsBlogLayoutRootStyle" TargetType="Panel">
+                <Setter Property="Background" Value="{StaticResource WindowsBlogBackgroundBrush}"></Setter>
+            </Style>
+            
+            <ControlTemplate x:Key="DateBlockTemplate">
+                <Canvas Height="86" Width="86" Margin="8,8,0,8" HorizontalAlignment="Left" VerticalAlignment="Top">
+                    <TextBlock TextTrimming="WordEllipsis" TextWrapping="NoWrap" Margin="8,0,4,0" FontSize="32" FontWeight="Bold">
+                        <TextBlock.Text>
+                            <Binding Path="PubDate" ></Binding>
+                        </TextBlock.Text>
+                    </TextBlock>
+                    <TextBlock TextTrimming="WordEllipsis" Canvas.Top="36" TextWrapping="NoWrap" Margin="8,0,4,0" FontSize="32" FontWeight="Bold" >
+                        <TextBlock.Text>
+                            <Binding Path="PubDate"></Binding>
+                        </TextBlock.Text>
+                    </TextBlock>
+                    <Line Stroke="White" StrokeThickness="2" X1="54" Y1="46" X2="54" Y2="80"></Line>
+                    <TextBlock TextTrimming="WordEllipsis" Canvas.Top="42" Canvas.Left="60" TextWrapping="NoWrap" Margin="8,0,4,0" FontSize="32" FontWeight="Bold" >
+                        <TextBlock.Text>
+                            <Binding Path="PubDate" ></Binding>
+                        </TextBlock.Text>
+                    </TextBlock>
+                </Canvas>
+            </ControlTemplate>
+            
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
+

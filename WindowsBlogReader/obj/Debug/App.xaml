@@ -1,0 +1,31 @@
+﻿<Application
+    x:Class="WindowsBlogReader.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:WindowsBlogReader">
+    <Application.Resources>
+        <ResourceDictionary>
+            <local:FeedDataSource x:Key="feedDataSource"/>
+            <local:DateConverter x:Key="DateConverter"></local:DateConverter>
+            <SolidColorBrush x:Key="WindowsBlogBackgroundBrush" Color="#FF0A2562"></SolidColorBrush>
+            <Style x:Key="WindowsBlogLayoutRootStyle" TargetType="Panel">
+                <Setter Property="Background" Value="{StaticResource WindowsBlogBackgroundBrush}"></Setter>
+            </Style>
+            
+            <SolidColorBrush x:Name="ListViewItemSelectedBackgroundThemeBrush" Color="#FF465985"></SolidColorBrush>
+            <SolidColorBrush x:Name="ListViewItemSelectedPointedOverBackgroundThemeBrush" Color="#FF384A72"></SolidColorBrush>
+            <SolidColorBrush x:Name="ListViewItemSelectedPointedOverBorderThemeBrush" Color="#FF384A72"></SolidColorBrush>
+
+            <ControlTemplate x:Key="DateBlockTemplate">
+                <Canvas Height="86" Width="86" Margin="8,8,0,8" HorizontalAlignment="Left" VerticalAlignment="Top">
+                    <TextBlock TextTrimming="WordEllipsis" TextWrapping="NoWrap" Margin="8,0,4,0" FontSize="32" FontWeight="Bold" Text="{Binding PubDate, Converter={StaticResource DateConverter}, ConverterParameter=month}"></TextBlock>
+                    <TextBlock TextTrimming="WordEllipsis" Canvas.Top="36" TextWrapping="NoWrap" Margin="8,0,4,0" FontSize="32" FontWeight="Bold" Text="{Binding PubDate, Converter={StaticResource DateConverter}, ConverterParameter=day}"></TextBlock>
+                    <Line Stroke="White" StrokeThickness="2" X1="54" Y1="46" X2="54" Y2="80"></Line>
+                    <TextBlock TextTrimming="WordEllipsis" Canvas.Top="42" Canvas.Left="60" TextWrapping="NoWrap" Margin="8,0,4,0" FontSize="32" FontWeight="Bold" Text="{Binding PubDate, Converter={StaticResource DateConverter}, ConverterParameter=year}"></TextBlock>
+                </Canvas>
+            </ControlTemplate>
+
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
+

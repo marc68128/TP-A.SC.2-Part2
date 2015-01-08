@@ -1,0 +1,12 @@
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP6 (NavigateurWeb)\bin\Release\TP6 (NavigateurWeb).exe.config
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP6 (NavigateurWeb)\bin\Release\TP6 (NavigateurWeb).exe
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP6 (NavigateurWeb)\bin\Release\TP6 (NavigateurWeb).pdb
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP6 (NavigateurWeb)\obj\Release\MainWindow.baml
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP6 (NavigateurWeb)\obj\Release\MainWindow.g.cs
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP6 (NavigateurWeb)\obj\Release\App.g.cs
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP6 (NavigateurWeb)\obj\Release\TP6 (NavigateurWeb)_MarkupCompile.cache
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP6 (NavigateurWeb)\obj\Release\TP6 (NavigateurWeb).g.resources
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP6 (NavigateurWeb)\obj\Release\TP6__NavigateurWeb_.Properties.Resources.resources
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP6 (NavigateurWeb)\obj\Release\TP6 (NavigateurWeb).csproj.GenerateResource.Cache
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP6 (NavigateurWeb)\obj\Release\TP6 (NavigateurWeb).exe
+C:\Users\Marc\documents\visual studio 2013\Projects\TP2\TP6 (NavigateurWeb)\obj\Release\TP6 (NavigateurWeb).pdb
